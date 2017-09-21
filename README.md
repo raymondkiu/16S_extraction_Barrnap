@@ -1,5 +1,4 @@
 # 16S rRNA sequence extraction from Barrnap outputs
-Automated 16S sequence extraction using Barrnap output gff files
 
 ## Introduction
 This is a simple automated Shell script that uses the Barrnap ribosomal RNA predictor (https://github.com/tseemann/barrnap) output gff files with 16S gene positions as input to extract single 16S rRNA sequence from original genome FASTA sequence files.
