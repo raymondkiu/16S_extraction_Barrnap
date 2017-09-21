@@ -9,7 +9,7 @@ This is a simple automated Shell script that uses the Barrnap ribosomal RNA pred
 ```
 
 * Where GFF is the outputs from Barrnap and FASTA is the original FASTA sequence.
-* This script will generate the final sequence file named FASTA-16S.fna, this should contain only single 16S sequence predicted by Barrnap - only the first 16S rRNA sequence predicted will be extracted in this script.
+* This script will generate the final sequence file named FASTA-16S.fna, this should contain only single 16S sequence predicted by Barrnap - only the first 16S rRNA sequence predicted will be extracted using this script.
 
 ## Dependencies
 
