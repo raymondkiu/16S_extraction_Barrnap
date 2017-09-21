@@ -1,7 +1,7 @@
 # 16S_sequence_Barrnap
 Automated 16S sequence extraction using Barrnap output gff files
 
-This is a simple automated Shell script that uses the Barrnap (https://github.com/tseemann/barrnap) output gff files with 16S gene position to extract single 16S rRNA sequence from original genome FASTA sequence files.
+This is a simple automated Shell script that uses the Barrnap (https://github.com/tseemann/barrnap) output gff files with 16S gene positions to extract single 16S rRNA sequence from original genome FASTA sequence files.
 
 Usage:
 
