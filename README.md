@@ -1,4 +1,4 @@
-# 16S_sequence_Barrnap
+# 16S rRNA sequence extraction from Barrnap outputs
 Automated 16S sequence extraction using Barrnap output gff files
 
 ## Introduction
